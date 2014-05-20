@@ -2,16 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="D:/eclipse/workspace/LWJGL Chain Reaction/lib/jar/lwjgl.jar">
+	<classpathentry kind="lib" path="C:/Users/Student/Documents/Workspace/ChainReaction/lib/jar/lwjgl.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:file:/D:/lwjgl-docs-2.9.1.zip!/javadoc"/>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LWJGL Chain Reaction/lib/native/windows"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="D:/eclipse/workspace/LWJGL Chain Reaction/lib/jar/lwjgl_util.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/D:/lwjgl-docs-2.9.1.zip!/javadoc"/>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LWJGL Chain Reaction/lib/native/windows"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="ChainReaction/lib/native/windows"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="res"/>
