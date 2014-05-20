@@ -2,7 +2,6 @@
 
 # Chain Reaction (Tentative Title)
 
-===
 
 #### Abstract
 
@@ -34,13 +33,17 @@ Isn't it special?
 
 ===
 
+#### Release Information
+
 | Releases | Version | Description
 |:---:|:---:|:---:|
 | Unfinished Game | v0.0.3 | Commits + Initial development = 3rd build release
 
 ===
 
-| Plans | Activity |
+#### Plans
+
+| Description | Activity |
 |:---|:---:|
 | Development of this game | TBA, Shelved Indefinitely |
 | Finish other game (Pokémon Walking) | Highly Active |
